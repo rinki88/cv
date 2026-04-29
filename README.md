@@ -1,4 +1,4 @@
-# Rinki's cv
+# cv
 
 ![Screenshot](screenshot.jpeg)
 
