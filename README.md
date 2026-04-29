@@ -1,5 +1,5 @@
 # Rinki's cv
 
-![Screenshot](Screenshot.jpg)
+![Screenshot](screenshot.jpeg)
 
-[Live Demo](https://rinki88.github.io/rinki-cv/)
+[Live Demo](https://rinki88.github.io/cv/)
